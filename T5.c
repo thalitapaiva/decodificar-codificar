@@ -1,6 +1,3 @@
-//Aluno: Heitor Rodrigues Meneghetti, Matrícula: 2023200964.
-//Aluno: Heitor Leonardo Costa, Matrícula: 2024203409.
-//Aluno: Thalita Fonseca de Paiva, Matrícula: 2023201396.
 
 
 #include <stdio.h>
